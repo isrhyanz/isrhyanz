@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rhyan Zhang👋
+
+This is where I share a bit about —— who I am, what I'm working on.
+
+---
+
+## About Me
+
+- Focus: Software Development / AI 
+- Currently learning: Python, AI Applications, chrome extensions
+- Goal: Build useful, clean, and meaningful products
+
+---
 
 <!--
 **isrhyanz/isrhyanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
